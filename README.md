@@ -141,9 +141,7 @@ When your theme is released, only the files in `_layouts`, `_includes`, `_sass` 
 To add a custom directory to your theme-gem, please edit the regexp in `yamt.gemspec` accordingly.
 
 ## Credits
-Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).  
-Also great help from [this blog](https://blog.webjeda.com/), I've used this even before I created this theme.  
-Images from [Unsplash](https://unsplash.com/).
+Theme originally by [PandaSekh](https://github.com/PandaSekh).   
 
 ## License
 The theme is available as open source under the terms of the [MIT License](https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt).
